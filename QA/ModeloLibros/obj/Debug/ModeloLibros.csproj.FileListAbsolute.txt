@@ -1,0 +1,4 @@
+C:\Users\corpivalladares.CONSULTORIA\Desktop\QA\ModeloLibros\bin\Debug\ModeloLibros.dll
+C:\Users\corpivalladares.CONSULTORIA\Desktop\QA\ModeloLibros\bin\Debug\ModeloLibros.pdb
+C:\Users\corpivalladares.CONSULTORIA\Desktop\QA\ModeloLibros\obj\Debug\ModeloLibros.dll
+C:\Users\corpivalladares.CONSULTORIA\Desktop\QA\ModeloLibros\obj\Debug\ModeloLibros.pdb

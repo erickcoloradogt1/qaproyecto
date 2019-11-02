@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "Libros";
+}
+
+
+
+
+<h2>Consulta</h2>
+
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Titutlo</th>
+                <th>Autor</th>
+                <th>ISBN</th>
+                <th>Cantidad</th>
+
+            </tr>
+        </thead>
+        <tbody>
+
+
+            @foreach (var item in ViewBag.Modelo)
+            {
+
+                <tr>
+                    <td>@item.id</td>
+                    <td> @item.titulo</td>
+                    <td>@item.autor</td>
+                    <td>@item.isbn</td>
+                    <td>@item.cantidad</td>
+
+
+                </tr>
+
+
+            }
+        </tbody>
+    </table>
+</div>
+
