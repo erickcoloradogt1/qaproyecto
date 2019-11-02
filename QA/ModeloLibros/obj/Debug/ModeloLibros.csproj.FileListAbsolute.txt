@@ -2,3 +2,9 @@ C:\Users\corpivalladares.CONSULTORIA\Desktop\QA\ModeloLibros\bin\Debug\ModeloLib
 C:\Users\corpivalladares.CONSULTORIA\Desktop\QA\ModeloLibros\bin\Debug\ModeloLibros.pdb
 C:\Users\corpivalladares.CONSULTORIA\Desktop\QA\ModeloLibros\obj\Debug\ModeloLibros.dll
 C:\Users\corpivalladares.CONSULTORIA\Desktop\QA\ModeloLibros\obj\Debug\ModeloLibros.pdb
+C:\Users\chowi\Documents\GitHub\qaproyecto\QA\ModeloLibros\bin\Debug\ModeloLibros.dll
+C:\Users\chowi\Documents\GitHub\qaproyecto\QA\ModeloLibros\bin\Debug\ModeloLibros.pdb
+C:\Users\chowi\Documents\GitHub\qaproyecto\QA\ModeloLibros\obj\Debug\ModeloLibros.csprojAssemblyReference.cache
+C:\Users\chowi\Documents\GitHub\qaproyecto\QA\ModeloLibros\obj\Debug\ModeloLibros.csproj.CoreCompileInputs.cache
+C:\Users\chowi\Documents\GitHub\qaproyecto\QA\ModeloLibros\obj\Debug\ModeloLibros.dll
+C:\Users\chowi\Documents\GitHub\qaproyecto\QA\ModeloLibros\obj\Debug\ModeloLibros.pdb
